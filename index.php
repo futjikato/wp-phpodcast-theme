@@ -2,7 +2,7 @@
 
 <div class="container">
     <div class="row">
-        <div id="span8">
+        <div class="span8">
             <?php
                 if(have_posts()):
                     while(have_posts()):

@@ -14,3 +14,17 @@ This theme is made for phpodcast.de
 Report bugs or add feature requests at github
 https://github.com/futjikato/wp-phpodcast-theme
 */
+
+.post footer {
+    margin: 0 auto;
+    float: none;
+}
+
+.post footer em {
+    display: block;
+}
+
+.post hr {
+    margin: 5px auto 10px;
+    float: none;
+}
